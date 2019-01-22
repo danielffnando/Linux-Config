@@ -1,0 +1,8 @@
+#!/bin/bash
+#lista de coisas ja configuradas no sistema
+package_mananger=0
+system_update=0
+packages=0
+profile=0
+bashrc=0
+i3=0
