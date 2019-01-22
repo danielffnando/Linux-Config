@@ -1,11 +1,11 @@
 .scripts/
-├── install_scripts.sh
-├── packagestoinstall
-└── .sysinfo
-    ├── .configured
-    ├── internetconnection
-    ├── packagemananger
-    └── .variables
+    install_scripts.sh
+    packagestoinstall
+    .sysinfo
+        .configured
+        internetconnection
+        packagemananger
+        .variables
 .profile
 .vimrc
 .bashrc
